@@ -5,7 +5,7 @@ number in [LaunchBar](http://launchbar.com).
 
 ## How to use
 
-1. Download the "Dial Number on iPhone.scpt" file.
+1. Download the [Dial Number on iPhone.scpt](https://github.com/downloads/PushDialer/launchbar-script/Dial%20Number%20on%20iPhone.scpt) file.
 
 2. Open LaunchBar preferences.
 
